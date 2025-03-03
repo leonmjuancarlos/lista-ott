@@ -26,4 +26,4 @@ jobs:
       run: |
         git add lista-ott.m3u
         git commit -m "Actualización diaria del archivo M3U"
-        git push origin main  # O usa la rama que prefieras
+        git push origin master  # Cambiado a 'master' en lugar de 'main'
