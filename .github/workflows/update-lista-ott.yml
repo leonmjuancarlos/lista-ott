@@ -1,9 +1,7 @@
 name: Update lista-ott.m3u
 
 on:
-  schedule:
-    - cron: "0 */6 * * *" # Se ejecuta cada 6 horas
-  workflow_dispatch: # Permite ejecución manual
+  workflow_dispatch: # Solo activación manual
 
 jobs:
   update-list:
@@ -28,11 +26,20 @@ jobs:
       - name: Start ZeroNet and download file
         run: |
           nohup ./ZeroNet/ZeroNet.sh &
-          sleep 30 # Esperar a que ZeroNet se inicie completamente
-          wget -O lista-ott.m3u http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u || {
+          sleep 60 # Aumentar el tiempo de espera para asegurar que ZeroNet esté listo
+          wget -O lista-ott.m3u.tmp http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u || {
             echo "Error: No se pudo descargar lista-ott.m3u";
             exit 1;
           }
+          
+          # Verificar si el archivo descargado es HTML en lugar de M3U
+          if grep -q "<html" lista-ott.m3u.tmp; then
+            echo "Error: Se recibió una respuesta HTML en lugar del archivo M3U";
+            cat lista-ott.m3u.tmp
+            exit 1;
+          fi
+          
+          mv lista-ott.m3u.tmp lista-ott.m3u
 
       - name: Commit and push changes
         run: |
