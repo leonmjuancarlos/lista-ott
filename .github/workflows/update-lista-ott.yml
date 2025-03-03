@@ -1,0 +1,43 @@
+name: Update lista-ott.m3u
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Se ejecuta cada 6 horas
+  workflow_dispatch: # Permite ejecución manual
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget
+
+      - name: Install ZeroNet
+        run: |
+          wget https://github.com/HelloZeroNet/ZeroNet-linux/archive/dist-linux64/ZeroNet-py3-linux64.tar.gz
+          tar xvpfz ZeroNet-py3-linux64.tar.gz
+          mv ZeroNet-linux-dist-linux64 ZeroNet
+          cd ZeroNet
+          ./ZeroNet.sh --version
+
+      - name: Start ZeroNet and download file
+        run: |
+          nohup ./ZeroNet/ZeroNet.sh &
+          sleep 30 # Esperar a que ZeroNet se inicie completamente
+          wget -O lista-ott.m3u http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u || {
+            echo "Error: No se pudo descargar lista-ott.m3u";
+            exit 1;
+          }
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add lista-ott.m3u
+          git commit -m "Actualizar lista-ott.m3u"
+          git push
