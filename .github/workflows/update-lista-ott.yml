@@ -23,7 +23,9 @@ jobs:
         git config --global user.email "github-actions@github.com"
 
     - name: Hacer commit y push del archivo M3U
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usamos el token de acceso personal
       run: |
         git add lista-ott.m3u
         git commit -m "Actualización diaria del archivo M3U"
-        git push origin master  # Cambiado a 'master' en lugar de 'main'
+        git push https://github.com/${{ github.repository }}.git HEAD:master  # Usa el token en la URL
