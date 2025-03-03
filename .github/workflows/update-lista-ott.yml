@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}  # Usamos el token de acceso personal
 
     - name: Descargar archivo M3U
       run: |
@@ -23,9 +24,7 @@ jobs:
         git config --global user.email "github-actions@github.com"
 
     - name: Hacer commit y push del archivo M3U
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usamos el token de acceso personal
       run: |
         git add lista-ott.m3u
         git commit -m "Actualización diaria del archivo M3U"
-        git push https://github.com/${{ github.repository }}.git HEAD:master  # Usa el token en la URL
+        git push
