@@ -17,6 +17,7 @@ jobs:
     - name: Descargar archivo M3U
       run: |
         curl -o lista-ott.m3u https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
+        curl -o lista-ott-ac.m3u https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u
 
     - name: Configurar Git
       run: |
@@ -25,6 +26,6 @@ jobs:
 
     - name: Hacer commit y push del archivo M3U
       run: |
-        git add lista-ott.m3u
+        git add lista-ott.m3u lista-ott-ac.m3u
         git commit -m "Actualización diaria del archivo M3U"
         git push
