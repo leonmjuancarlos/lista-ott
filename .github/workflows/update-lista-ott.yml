@@ -26,26 +26,34 @@ jobs:
       - name: Start ZeroNet and download file
         run: |
           nohup ./ZeroNet/ZeroNet.sh &
-          sleep 120 # Aumentar el tiempo de espera para asegurar que ZeroNet esté listo
-          
-          # Forzar la descarga del sitio en ZeroNet
-          curl "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/" -m 60 || {
-            echo "Error: No se pudo cargar el sitio en ZeroNet";
+
+          # Comprobar si ZeroNet está en línea antes de continuar
+          until curl -s "http://127.0.0.1:43110/" > /dev/null; do
+            echo "Esperando a que ZeroNet esté en línea..."
+            sleep 10  # Esperar 10 segundos antes de intentarlo de nuevo
+          done
+
+          echo "ZeroNet está en línea, procediendo con la descarga del archivo."
+
+          # Descargar el archivo lista-ott.m3u con encabezado Accept
+          curl -H "Accept: application/json, text/javascript, */*; q=0.01" "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u" -m 60 || {
+            echo "Error: No se pudo cargar el archivo lista-ott.m3u";
             exit 1;
           }
-          
-          # Verificar si el archivo está disponible antes de descargarlo
+
+          # Verificar si el archivo es un M3U válido
           content_type=$(curl -sI http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u | grep -i "Content-Type")
           if [[ "$content_type" != *"audio/x-mpegurl"* && "$content_type" != *"application/octet-stream"* ]]; then
             echo "Error: El archivo descargado no es un M3U válido";
             exit 1;
           fi
-          
+
+          # Descargar el archivo
           wget -O lista-ott.m3u.tmp http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u || {
             echo "Error: No se pudo descargar lista-ott.m3u";
             exit 1;
           }
-          
+
           mv lista-ott.m3u.tmp lista-ott.m3u
 
       - name: Commit and push changes
