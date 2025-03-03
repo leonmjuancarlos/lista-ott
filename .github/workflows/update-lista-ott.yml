@@ -13,7 +13,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget
+          sudo apt-get install -y wget curl
 
       - name: Install ZeroNet
         run: |
@@ -26,18 +26,25 @@ jobs:
       - name: Start ZeroNet and download file
         run: |
           nohup ./ZeroNet/ZeroNet.sh &
-          sleep 60 # Aumentar el tiempo de espera para asegurar que ZeroNet esté listo
+          sleep 120 # Aumentar el tiempo de espera para asegurar que ZeroNet esté listo
+          
+          # Forzar la descarga del sitio en ZeroNet
+          curl "http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/" -m 60 || {
+            echo "Error: No se pudo cargar el sitio en ZeroNet";
+            exit 1;
+          }
+          
+          # Verificar si el archivo está disponible antes de descargarlo
+          content_type=$(curl -sI http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u | grep -i "Content-Type")
+          if [[ "$content_type" != *"audio/x-mpegurl"* && "$content_type" != *"application/octet-stream"* ]]; then
+            echo "Error: El archivo descargado no es un M3U válido";
+            exit 1;
+          fi
+          
           wget -O lista-ott.m3u.tmp http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u || {
             echo "Error: No se pudo descargar lista-ott.m3u";
             exit 1;
           }
-          
-          # Verificar si el archivo descargado es HTML en lugar de M3U
-          if grep -q "<html" lista-ott.m3u.tmp; then
-            echo "Error: Se recibió una respuesta HTML en lugar del archivo M3U";
-            cat lista-ott.m3u.tmp
-            exit 1;
-          fi
           
           mv lista-ott.m3u.tmp lista-ott.m3u
 
