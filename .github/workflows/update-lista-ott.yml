@@ -1,46 +1,29 @@
-name: Update lista-ott.m3u
+name: Push M3U File Daily
 
 on:
-  workflow_dispatch: # Solo activación manual
+  schedule:
+    - cron: '0 0 * * *'  # Se ejecuta todos los días a la medianoche UTC
+  workflow_dispatch:  # Permite que se ejecute manualmente si es necesario
 
 jobs:
-  update-list:
+  push-file:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget curl
+    - name: Descargar archivo M3U
+      run: |
+        curl -o lista-ott.m3u https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
 
-      - name: Install ZeroNet
-        run: |
-          wget https://github.com/HelloZeroNet/ZeroNet-linux/archive/dist-linux64/ZeroNet-py3-linux64.tar.gz
-          tar xvpfz ZeroNet-py3-linux64.tar.gz
-          mv ZeroNet-linux-dist-linux64 ZeroNet
-          cd ZeroNet
-          ./ZeroNet.sh --version
+    - name: Configurar Git
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
 
-      - name: Start ZeroNet and download file
-        run: |
-          nohup ./ZeroNet/ZeroNet.sh &
-
-          # Comprobar si ZeroNet está en línea antes de continuar
-          until curl -s "http://127.0.0.1:43110/" > /dev/null; do
-            echo "Esperando a que ZeroNet esté en línea..."
-            sleep 10  # Esperar 10 segundos antes de intentarlo de nuevo
-          done
-
-          echo "ZeroNet está en línea, procediendo con la descarga del archivo."
-
-          curl http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add lista-ott.m3u
-          git commit -m "Actualizar lista-ott.m3u"
-          git push
+    - name: Hacer commit y push del archivo M3U
+      run: |
+        git add lista-ott.m3u
+        git commit -m "Actualización diaria del archivo M3U"
+        git push origin main  # O usa la rama que prefieras
