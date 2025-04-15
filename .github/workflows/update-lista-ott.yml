@@ -16,8 +16,8 @@ jobs:
 
     - name: Descargar archivo M3U
       run: |
-        curl -o lista-ott.m3u https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
-        curl -o lista-ott-ac.m3u https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u
+        curl -o lista-ott.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_iptv.m3u
+        curl -o lista-ott-ac.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u
 
     - name: Configurar Git
       run: |
