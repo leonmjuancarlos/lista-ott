@@ -2,34 +2,34 @@ name: Push M3U File Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'          # Ejecuta todos los días a la 00:00 UTC
-  workflow_dispatch:              # Permite lanzamiento manual
+    - cron: '0 0 * * *'          # Todos los días a las 00 UTC
+  workflow_dispatch:              # Lanzamiento manual
 
 jobs:
   push-file:
     runs-on: ubuntu-latest
 
-    # ────────────────────────
-    # Servicio ZeroNet
-    # ────────────────────────
     services:
       zeronet:
         image: nofish/zeronet
         ports:
-          - 43110:43110
-        command: >
-          ./ZeroNet.sh
-          --ui_ip 0.0.0.0
-          --ui_port 43110
-          --ui_host 127.0.0.1
+          - 43110:43110          # Expone 43110 del contenedor al host
+        entrypoint:
+          - ./ZeroNet.sh
+          - --ui_ip
+          - 0.0.0.0              # Escuchar en todas las interfaces
+          - --ui_port
+          - "43110"
+          - --ui_host
+          - 127.0.0.1            # Host permitido
 
     steps:
-      # 1. Checkout del repositorio
+      # 1. Checkout del repo
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      # 2. Esperar a que ZeroNet esté operativo (máx. 4 min)
+      # 2. Esperar a que ZeroNet esté listo (máx. 4 min)
       - name: Esperar a ZeroNet
         shell: bash
         run: |
@@ -57,7 +57,7 @@ jobs:
           git config --global user.name  "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      # 5. Commit y push sólo si hay cambios
+      # 5. Commit y push solo si hay cambios
       - name: Commit y push si hay cambios
         run: |
           git add lista-ott.m3u
