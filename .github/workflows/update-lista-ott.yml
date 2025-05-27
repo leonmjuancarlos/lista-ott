@@ -2,55 +2,68 @@ name: Push M3U File Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'          # Ejecuta todos los días a la 00:00 UTC
+  workflow_dispatch:              # Permite lanzamiento manual
 
 jobs:
   push-file:
     runs-on: ubuntu-latest
 
+    # ────────────────────────
+    # Servicio ZeroNet
+    # ────────────────────────
     services:
       zeronet:
         image: nofish/zeronet
         ports:
-          - 43110:43110      # UI de ZeroNet
+          - 43110:43110
+        command: >
+          ./ZeroNet.sh
+          --ui_ip 0.0.0.0
+          --ui_port 43110
+          --ui_host 127.0.0.1
 
     steps:
-    - uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GH_TOKEN }}
+      # 1. Checkout del repositorio
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
-    # Esperamos hasta 4 min o salimos
-    - name: Esperar a ZeroNet
-      shell: bash
-      run: |
-        for i in {1..24}; do
-          if curl -fs http://127.0.0.1:43110/ >/dev/null 2>&1; then
-            echo "ZeroNet listo ✔"
-            exit 0
+      # 2. Esperar a que ZeroNet esté operativo (máx. 4 min)
+      - name: Esperar a ZeroNet
+        shell: bash
+        run: |
+          for i in {1..24}; do
+            if curl -fs http://127.0.0.1:43110/ >/dev/null 2>&1; then
+              echo "ZeroNet listo ✔"
+              exit 0
+            fi
+            echo "ZeroNet aún no responde, reintentando en 10 s…"
+            sleep 10
+          done
+          echo "Timeout: ZeroNet nunca respondió" >&2
+          exit 1
+
+      # 3. Descargar la lista M3U desde ZeroNet
+      - name: Descargar lista M3U
+        run: |
+          set -e
+          curl -Ls -o lista-ott.m3u \
+            http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
+
+      # 4. Configurar Git
+      - name: Configurar Git
+        run: |
+          git config --global user.name  "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      # 5. Commit y push sólo si hay cambios
+      - name: Commit y push si hay cambios
+        run: |
+          git add lista-ott.m3u
+          if git diff --cached --quiet; then
+            echo "Sin cambios, no se hace commit."
+          else
+            git commit -m "Actualización diaria de lista-ott.m3u desde ZeroNet"
+            git push
           fi
-          echo "ZeroNet aún no responde, reintentando en 10 s…"
-          sleep 10
-        done
-        echo "Timeout: ZeroNet nunca respondió" >&2
-        exit 1
-
-    - name: Descargar listas M3U
-      run: |
-        set -e
-        curl -Ls -o lista-ott.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_iptv.m3u
-        curl -Ls -o lista-ott-ac.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u
-        curl -Ls -o lista-ott-zn.m3u http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
-
-    - name: Configurar Git
-      run: |
-        git config --global user.name  "github-actions"
-        git config --global user.email "github-actions@github.com"
-
-    - name: Commit y push si hay cambios
-      run: |
-        git add lista-ott*.m3u
-        git diff --cached --quiet || {
-          git commit -m "Actualización diaria de listas M3U (incluye ZeroNet)"
-          git push
-        }
