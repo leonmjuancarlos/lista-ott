@@ -2,30 +2,73 @@ name: Push M3U File Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Se ejecuta todos los días a la medianoche UTC
-  workflow_dispatch:  # Permite que se ejecute manualmente si es necesario
+    - cron: '0 0 * * *'          # Ejecuta todos los días a la 00:00 UTC
+  workflow_dispatch:              # Permite lanzamiento manual
 
 jobs:
   push-file:
     runs-on: ubuntu-latest
 
+    # ────────────────────────
+    # 1. Arrancamos ZeroNet
+    # ────────────────────────
+    services:
+      zeronet:
+        # Imagen recomendada por el propio proyecto
+        # https://hub.docker.com/r/nofish/zeronet/
+        image: nofish/zeronet
+        ports:
+          - 43110:43110           # Exponemos el puerto HTTP local
+        options: >-
+          --health-cmd="wget -qO- http://127.0.0.1:43110/ || exit 1"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=6
+
     steps:
     - uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GH_TOKEN }}  # Usamos el token de acceso personal
+        token: ${{ secrets.GH_TOKEN }}
 
-    - name: Descargar archivo M3U
+    # ────────────────────────
+    # 2. Esperamos a que ZeroNet esté listo
+    # ────────────────────────
+    - name: Esperar a que ZeroNet esté operativo
       run: |
-        curl -o lista-ott.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_iptv.m3u
-        curl -o lista-ott-ac.m3u https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u
+        echo "Comprobando ZeroNet…"
+        for i in {1..12}; do
+          if curl -fs http://127.0.0.1:43110/ >/dev/null; then
+            echo "ZeroNet activo ✔"
+            break
+          fi
+          echo "ZeroNet aún no responde, reintentando en 10 s…"
+          sleep 10
+        done
 
+    # ────────────────────────
+    # 3. Descargamos las tres listas
+    # ────────────────────────
+    - name: Descargar archivos M3U
+      run: |
+        set -e
+        curl -Ls -o lista-ott.m3u      https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_iptv.m3u
+        curl -Ls -o lista-ott-ac.m3u   https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u
+        curl -Ls -o lista-ott-zn.m3u   http://127.0.0.1:43110/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ott.m3u
+
+    # ────────────────────────
+    # 4. Commit & push (solo si hay cambios)
+    # ────────────────────────
     - name: Configurar Git
       run: |
-        git config --global user.name "github-actions"
+        git config --global user.name  "github-actions"
         git config --global user.email "github-actions@github.com"
 
-    - name: Hacer commit y push del archivo M3U
+    - name: Hacer commit y push
       run: |
-        git add lista-ott.m3u lista-ott-ac.m3u
-        git commit -m "Actualización diaria del archivo M3U"
-        git push
+        git add lista-ott*.m3u
+        if git diff --cached --quiet; then
+          echo "Sin cambios, no se hace commit."
+        else
+          git commit -m "Actualización diaria de listas M3U (incluye ZeroNet)"
+          git push
+        fi
