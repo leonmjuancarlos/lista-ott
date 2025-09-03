@@ -364,5 +364,5 @@ http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Cuatro 1080" group-title="ELCANO",Cuatro 1080
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Rayo Vallecano vs FC Barcelona - HDR" group-title="ELCANO",Rayo Vallecano vs FC Barcelona - HDR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eventos" group-title="ELCANO",Eventos
 http://127.0.0.1:6878/ace/getstream?id=8523ec103de2e699eaef49010208209979d343c9
