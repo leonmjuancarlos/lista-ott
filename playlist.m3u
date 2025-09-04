@@ -259,17 +259,17 @@ http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar LaLiga" group-title="Movistar Deportes",Movistar LaLiga
 http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Plus" group-title="Movistar Deportes",Movistar Plus
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Liga de Campeones" group-title="Movistar Deportes",Movistar Liga de Campeones
-http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Deportes" group-title="Movistar Deportes",Movistar Deportes
-http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Deportes 2" group-title="Movistar Deportes",Movistar Deportes 2
-http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
-http://127.0.0.1:6878/ace/getstream?id=76a69812c66bfc4899e89df498220588a56e6064
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Vamos" group-title="Movistar Deportes",Movistar Vamos
-http://127.0.0.1:6878/ace/getstream?id=1444a976d2cf6e7fdcee833ed36ee5e55632253f
+http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
+http://127.0.0.1:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Estrenos" group-title="Movistar Cine",Movistar Estrenos
 http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Documentales" group-title="Movistar Cine",Movistar Documentales
@@ -293,7 +293,7 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Clásicos" group-title="Movistar Cine",Movistar Clásicos
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 1" group-title="Eurosport",Eurosport 1
-http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
+http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 1080" group-title="Eurosport",Eurosport 1080
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 720" group-title="Eurosport",Eurosport 720
