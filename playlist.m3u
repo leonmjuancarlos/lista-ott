@@ -164,26 +164,10 @@ http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="#VAMOS ELLAS  FHD" group-title="NEW ERA(VAMOS)",#VAMOS ELLAS  FHD
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN FORMULA1 4K" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA1 4K
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN FORMULA 1 FHD" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN FORMULA 1 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA 1 FHD (*)
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 1 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 1 FHD (*)
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 2 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 2 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 3 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 3 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 3 FHD (*)
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 4 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 4 FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 4 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 4 FHD (*)
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ Deportes HD op1" group-title="M+ Deportes",M+ Deportes HD op1
+http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ Deportes HD op2" group-title="M+ Deportes",M+ Deportes HD op2
+http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 1080" group-title="M. LaLiga",M. LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 1080 MultiAudio" group-title="M. LaLiga",M. LaLiga 1080 MultiAudio
@@ -364,5 +348,5 @@ http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Cuatro 1080" group-title="ELCANO",Cuatro 1080
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eventos" group-title="ELCANO",Eventos
-http://127.0.0.1:6878/ace/getstream?id=8523ec103de2e699eaef49010208209979d343c9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Moto GP" group-title="ELCANO",Moto GP
+http://127.0.0.1:6878/ace/getstream?id=d1fd48805f30478079c679e04721fb06019bf29d
