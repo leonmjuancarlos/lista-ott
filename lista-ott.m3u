@@ -4,51 +4,51 @@
 http://127.0.0.1:6878/ace/getstream?id=9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="UFC Fight Pass" group-title="NEW ERA(EVENTOS)",UFC Fight Pass
 http://127.0.0.1:6878/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN EVENTOS 1" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN EVENTOS 1" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 1
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN EVENTOS 2" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN EVENTOS 2" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 2
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN EVENTOS 3" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN EVENTOS 3" group-title="NEW ERA(EVENTOS)",DAZN EVENTOS 3
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Canal 1 (1RFEF) (solo eventos) --> NEW ERA V" group-title="NEW ERA(EVENTOS)",Canal 1 (1RFEF) (solo eventos) --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Canal 2 (1RFEF) (solo eventos) --> NEW ERA V" group-title="NEW ERA(EVENTOS)",Canal 2 (1RFEF) (solo eventos) --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="EUROSPORT 1 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="EUROSPORT 1 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="EUROSPORT 1 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="EUROSPORT 1 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="EUROSPORT 2 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="EUROSPORT 2 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="EUROSPORT 2 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="EUROSPORT 2 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="GOLF FHD" group-title="NEW ERA(GOLF)",GOLF FHD
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="GOLF FHD" group-title="NEW ERA(GOLF)",GOLF FHD
 http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="GOLF 2 FHD" group-title="NEW ERA(GOLF)",GOLF 2 FHD
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="GOLF 2 FHD" group-title="NEW ERA(GOLF)",GOLF 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LA LIGA 2 FHD" group-title="NEW ERA(LA LIGA)",DAZN LA LIGA 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LA LIGA 2 FHD" group-title="NEW ERA(LA LIGA)",DAZN LA LIGA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 1 BAR FHD" group-title="NEW ERA(LA LIGA)",DAZN 1 BAR FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 1 BAR FHD" group-title="NEW ERA(LA LIGA)",DAZN 1 BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 2 BAR FHD" group-title="NEW ERA(LA LIGA)",DAZN 2 BAR FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 2 BAR FHD" group-title="NEW ERA(LA LIGA)",DAZN 2 BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 1 BAR HD" group-title="NEW ERA(LA LIGA)",DAZN 1 BAR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 1 BAR HD" group-title="NEW ERA(LA LIGA)",DAZN 1 BAR HD
 http://127.0.0.1:6878/ace/getstream?id=c51e60bab39eb21c200c3ae95da175e0d3618083
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar LaLiga (FHD)" group-title="NEW ERA(LA LIGA)",Movistar LaLiga (FHD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="Movistar LaLiga (FHD)" group-title="NEW ERA(LA LIGA)",Movistar LaLiga (FHD)
 http://127.0.0.1:6878/ace/getstream?id=d42832860c026222b3982bb3d6100e1f267c54f0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. Deportes HD" group-title="NEW LOOP",M. Deportes HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M. Deportes HD" group-title="NEW LOOP",M. Deportes HD
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. Golf HD" group-title="NEW LOOP",M. Golf HD
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="M. Golf HD" group-title="NEW LOOP",M. Golf HD
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga" group-title="NEW LOOP",M. LaLiga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga" group-title="NEW LOOP",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. Liga de Campeones" group-title="NEW LOOP",M. Liga de Campeones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="M. Liga de Campeones" group-title="NEW LOOP",M. Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN1" group-title="NEW LOOP",DAZN1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN1" group-title="NEW LOOP",DAZN1
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN2" group-title="NEW LOOP",DAZN2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN2" group-title="NEW LOOP",DAZN2
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN3" group-title="NEW LOOP",DAZN3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN3" group-title="NEW LOOP",DAZN3
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Sky Sports Arena [UK]" group-title="NEW LOOP",Sky Sports Arena [UK]
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
@@ -106,47 +106,47 @@ http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Ziggo Sport 6" group-title="NEW LOOP",Ziggo Sport 6
 http://127.0.0.1:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 2 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 2 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES 2 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 3 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 3 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES 3 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 4 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 4 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES 4 FHD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 5 HD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 5 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES 5 HD" group-title="NEW ERA(DEPORTES)",M+ DEPORTES 5 HD
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="NBA TV" group-title="NEW ERA(DEPORTES)",NBA TV
 http://127.0.0.1:6878/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES FHD (*)" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD (*)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES FHD (*)" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD (*)
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES FHD 2 (*)" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD 2 (*)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M+ DEPORTES FHD 2 (*)" group-title="NEW ERA(DEPORTES)",M+ DEPORTES FHD 2 (*)
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ESPORT 3 FHD" group-title="NEW ERA(DEPORTES)",ESPORT 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Teledeporte FHD" group-title="NEW ERA(DEPORTES)",Teledeporte FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" tvg-id="Teledeporte FHD" group-title="NEW ERA(DEPORTES)",Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ANTENA 3 FHD" group-title="NEW ERA(TDT)",ANTENA 3 FHD
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2017/05/Logotipo_Antena3.png" tvg-id="ANTENA 3 FHD" group-title="NEW ERA(TDT)",ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="CUATRO FHD" group-title="NEW ERA(TDT)",CUATRO FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/2/cuatro-tv-logo-png_seeklogo-297614.png" tvg-id="CUATRO FHD" group-title="NEW ERA(TDT)",CUATRO FHD
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="GOL PLAY FHD" group-title="NEW ERA(TDT)",GOL PLAY FHD
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="GOL PLAY FHD" group-title="NEW ERA(TDT)",GOL PLAY FHD
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 1 FHD" group-title="NEW ERA(TDT)",LA 1 FHD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Real_Madrid_TV_ES_logo_v2.png?1737561113" tvg-id="LA 1 FHD" group-title="NEW ERA(TDT)",LA 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 2 FHD" group-title="NEW ERA(TDT)",LA 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png" tvg-id="LA 2 FHD" group-title="NEW ERA(TDT)",LA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA SEXTA FHD" group-title="NEW ERA(TDT)",LA SEXTA FHD
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD" group-title="NEW ERA(TDT)",TELECINCO FHD
+#EXTINF:-1 tvg-logo="https://webs.um.es/jcarrion/miwiki/lib/exe/fetch.php?cache=&media=telecinco_logo.png" tvg-id="TELECINCO FHD" group-title="NEW ERA(TDT)",TELECINCO FHD
 http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD" group-title="NEW ERA(TDT)",TELECINCO FHD
+#EXTINF:-1 tvg-logo="https://webs.um.es/jcarrion/miwiki/lib/exe/fetch.php?cache=&media=telecinco_logo.png" tvg-id="TELECINCO FHD" group-title="NEW ERA(TDT)",TELECINCO FHD
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="RALLY TV" group-title="NEW ERA III",RALLY TV
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ONETORO (solo eventos)" group-title="NEW ERA III",ONETORO (solo eventos)
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DE: Dazn Bar 1 HD" group-title="NEW ERA(INTERNACIONAL)",DE: Dazn Bar 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DE: Dazn Bar 1 HD" group-title="NEW ERA(INTERNACIONAL)",DE: Dazn Bar 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TR: beIN Sports 1 FHD" group-title="NEW ERA(INTERNACIONAL)",TR: beIN Sports 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=eb882a774ddf9f4cf83f3d50fc9a8d3c629f6659
@@ -156,121 +156,137 @@ http://127.0.0.1:6878/ace/getstream?id=c1fb3fd5e4a6b6c6d4a463834841f1d66518d061
 http://127.0.0.1:6878/ace/getstream?id=ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TR: beIN Sports 4 FHD" group-title="NEW ERA(INTERNACIONAL)",TR: beIN Sports 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="#VAMOS FHD (*)" group-title="NEW ERA(VAMOS)",#VAMOS FHD (*)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="#VAMOS FHD (*)" group-title="NEW ERA(VAMOS)",#VAMOS FHD (*)
 http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="#VAMOS FHD (SAT)" group-title="NEW ERA(VAMOS)",#VAMOS FHD (SAT)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="#VAMOS FHD (SAT)" group-title="NEW ERA(VAMOS)",#VAMOS FHD (SAT)
 http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="#VAMOS FHD" group-title="NEW ERA(VAMOS)",#VAMOS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="#VAMOS FHD" group-title="NEW ERA(VAMOS)",#VAMOS FHD
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="#VAMOS ELLAS  FHD" group-title="NEW ERA(VAMOS)",#VAMOS ELLAS  FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="#VAMOS ELLAS  FHD" group-title="NEW ERA(VAMOS)",#VAMOS ELLAS  FHD
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ Deportes HD op1" group-title="M+ Deportes",M+ Deportes HD op1
-http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ Deportes HD op2" group-title="M+ Deportes",M+ Deportes HD op2
-http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 1080" group-title="M. LaLiga",M. LaLiga 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN FORMULA1 4K" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA1 4K
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN FORMULA 1 FHD" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN FORMULA 1 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN FORMULA 1 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 1 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 1 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 2 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 2 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 3 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 3 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 3 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 4 FHD" group-title="NEW ERA(DANZ + F1)",DAZN 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 4 FHD (*)" group-title="NEW ERA(DANZ + F1)",DAZN 4 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 1080" group-title="M. LaLiga",M. LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 1080 MultiAudio" group-title="M. LaLiga",M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 1080 MultiAudio" group-title="M. LaLiga",M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 1080 MultiAudio" group-title="M. LaLiga",M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 1080 MultiAudio" group-title="M. LaLiga",M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 720" group-title="M. LaLiga",M. LaLiga 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 720" group-title="M. LaLiga",M. LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 2 1080" group-title="M. LaLiga 2",M. LaLiga 2 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 2 1080" group-title="M. LaLiga 2",M. LaLiga 2 1080
 http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 2 720" group-title="M. LaLiga 2",M. LaLiga 2 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 2 720" group-title="M. LaLiga 2",M. LaLiga 2 720
 http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 3" group-title="M. LaLiga 3",M. LaLiga 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 3" group-title="M. LaLiga 3",M. LaLiga 3
 http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 4" group-title="ELCANO",M. LaLiga 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 4" group-title="ELCANO",M. LaLiga 4
 http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M. LaLiga 5" group-title="ELCANO",M. LaLiga 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga 5" group-title="ELCANO",M. LaLiga 5
 http://127.0.0.1:6878/ace/getstream?id=c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="La Liga BAR 1080" group-title="Liga Bar",La Liga BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="La Liga BAR 1080" group-title="Liga Bar",La Liga BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 1080 MultiAudio" group-title="DAZN LaLiga",DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 1080 MultiAudio" group-title="DAZN LaLiga",DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 1080 MultiAudio" group-title="DAZN LaLiga",DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 1080 MultiAudio" group-title="DAZN LaLiga",DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 720" group-title="DAZN LaLiga",DAZN LaLiga 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 720" group-title="DAZN LaLiga",DAZN LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 720" group-title="DAZN LaLiga",DAZN LaLiga 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 720" group-title="DAZN LaLiga",DAZN LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 2" group-title="DAZN LaLiga",DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 2" group-title="DAZN LaLiga",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga  2 720" group-title="DAZN LaLiga",DAZN LaLiga  2 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga  2 720" group-title="DAZN LaLiga",DAZN LaLiga  2 720
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga  3" group-title="DAZN LaLiga",DAZN LaLiga  3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga  3" group-title="DAZN LaLiga",DAZN LaLiga  3
 http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 4" group-title="DAZN LaLiga",DAZN LaLiga 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 4" group-title="DAZN LaLiga",DAZN LaLiga 4
 http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 5" group-title="DAZN LaLiga",DAZN LaLiga 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 5" group-title="DAZN LaLiga",DAZN LaLiga 5
 http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 1080" group-title="LaLiga hypermotion",LaLiga Smartbank 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 1080" group-title="LaLiga hypermotion",LaLiga Smartbank 1080
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 720" group-title="LaLiga hypermotion",LaLiga Smartbank 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 720" group-title="LaLiga hypermotion",LaLiga Smartbank 720
 http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 2 1080" group-title="LaLiga hypermotion",LaLiga Smartbank 2 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 2 1080" group-title="LaLiga hypermotion",LaLiga Smartbank 2 1080
 http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 2 720" group-title="LaLiga hypermotion",LaLiga Smartbank 2 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 2 720" group-title="LaLiga hypermotion",LaLiga Smartbank 2 720
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 3" group-title="LaLiga hypermotion",LaLiga Smartbank 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 3" group-title="LaLiga hypermotion",LaLiga Smartbank 3
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 3" group-title="LaLiga hypermotion",LaLiga Smartbank 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 3" group-title="LaLiga hypermotion",LaLiga Smartbank 3
 http://127.0.0.1:6878/ace/getstream?id=8208e9dd4ae737d309c826efd919b48b484b1635
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 4" group-title="LaLiga hypermotion",LaLiga Smartbank 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 4" group-title="LaLiga hypermotion",LaLiga Smartbank 4
 http://127.0.0.1:6878/ace/getstream?id=1c25bdd6be50b69d4da12cbbc25a50be169414e4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 5" group-title="LaLiga hypermotion",LaLiga Smartbank 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 5" group-title="LaLiga hypermotion",LaLiga Smartbank 5
 http://127.0.0.1:6878/ace/getstream?id=84b8fd1ceddf7976464208e1d15fe776f9ab35e3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 6" group-title="LaLiga hypermotion",LaLiga Smartbank 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 6" group-title="LaLiga hypermotion",LaLiga Smartbank 6
 http://127.0.0.1:6878/ace/getstream?id=0c847d3acd9c4a31a815330ad7f546c30851aa88
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 7" group-title="LaLiga hypermotion",LaLiga Smartbank 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 7" group-title="LaLiga hypermotion",LaLiga Smartbank 7
 http://127.0.0.1:6878/ace/getstream?id=a4ea8b888b5b11a3d08498d7bc858c564b5be423
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 8" group-title="LaLiga hypermotion",LaLiga Smartbank 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 8" group-title="LaLiga hypermotion",LaLiga Smartbank 8
 http://127.0.0.1:6878/ace/getstream?id=233ba21691ea262caae00b0af171347c54c315f6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 9" group-title="LaLiga hypermotion",LaLiga Smartbank 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 9" group-title="LaLiga hypermotion",LaLiga Smartbank 9
 http://127.0.0.1:6878/ace/getstream?id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Smartbank 10" group-title="LaLiga hypermotion",LaLiga Smartbank 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Smartbank 10" group-title="LaLiga hypermotion",LaLiga Smartbank 10
 http://127.0.0.1:6878/ace/getstream?id=ef7f710a5133477237b06ea023a4f20017ea0262
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN F1 1080 (Fórmula 1)" group-title="DAZN F1",DAZN F1 1080 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN F1 720 (Fórmula 1)" group-title="DAZN F1",DAZN F1 720 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN F1 720 (Fórmula 1)" group-title="DAZN F1",DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Primera Federación (RFEF)" group-title="ELCANO",Primera Federación (RFEF)
 http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 1" group-title="DAZN",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 1" group-title="DAZN",DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN 2" group-title="DAZN",DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN 2" group-title="DAZN",DAZN 2
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN F1" group-title="DAZN",DAZN F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN F1" group-title="DAZN",DAZN F1
 http://127.0.0.1:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga" group-title="DAZN",DAZN LaLiga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga" group-title="DAZN",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DAZN LaLiga 2" group-title="DAZN",DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LaLiga 2" group-title="DAZN",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LaLiga Hypermotion 1" group-title="Hypermotion",LaLiga Hypermotion 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LaLiga Hypermotion 1" group-title="Hypermotion",LaLiga Hypermotion 1
 http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar LaLiga" group-title="Movistar Deportes",Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="Movistar LaLiga" group-title="Movistar Deportes",Movistar LaLiga
 http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Plus" group-title="Movistar Deportes",Movistar Plus
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Liga de Campeones" group-title="Movistar Deportes",Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Movistar Liga de Campeones" group-title="Movistar Deportes",Movistar Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Deportes" group-title="Movistar Deportes",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="Movistar Deportes" group-title="Movistar Deportes",Movistar Deportes
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Deportes 2" group-title="Movistar Deportes",Movistar Deportes 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="Movistar Deportes 2" group-title="Movistar Deportes",Movistar Deportes 2
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Vamos" group-title="Movistar Deportes",Movistar Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Movistar Vamos" group-title="Movistar Deportes",Movistar Vamos
 http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Ellas Vamos" group-title="Movistar Deportes",Movistar Ellas Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Movistar Ellas Vamos" group-title="Movistar Deportes",Movistar Ellas Vamos
 http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
 http://127.0.0.1:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Estrenos" group-title="Movistar Cine",Movistar Estrenos
 http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
@@ -294,27 +310,27 @@ http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
 http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Clásicos" group-title="Movistar Cine",Movistar Clásicos
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 1" group-title="Eurosport",Eurosport 1
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="Eurosport 1" group-title="Eurosport",Eurosport 1
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 1080" group-title="Eurosport",Eurosport 1080
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="Eurosport 1080" group-title="Eurosport",Eurosport 1080
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 720" group-title="Eurosport",Eurosport 720
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="Eurosport 720" group-title="Eurosport",Eurosport 720
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 2 1080" group-title="Eurosport",Eurosport 2 1080
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="Eurosport 2 1080" group-title="Eurosport",Eurosport 2 1080
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Eurosport 2 720" group-title="Eurosport",Eurosport 2 720
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="Eurosport 2 720" group-title="Eurosport",Eurosport 2 720
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="MovistarPlus 1080" group-title="ELCANO",MovistarPlus 1080
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Vamos 1080" group-title="Vamos",Vamos 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Vamos 1080" group-title="Vamos",Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Vamos 720" group-title="Vamos",Vamos 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Vamos 720" group-title="Vamos",Vamos 720
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Dazn 1" group-title="Dazn",Dazn 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="Dazn 1" group-title="Dazn",Dazn 1
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Dazn 1" group-title="Dazn",Dazn 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="Dazn 1" group-title="Dazn",Dazn 1
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Dazn 2" group-title="Dazn",Dazn 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="Dazn 2" group-title="Dazn",Dazn 2
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Deporte 1080" group-title="Deporte",Deporte 1080
 http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -332,23 +348,23 @@ http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Deporte 5 1080" group-title="Deporte",Deporte 5 1080
 http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Ellas Vamos" group-title="ELCANO",Ellas Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Ellas Vamos" group-title="ELCANO",Ellas Vamos
 http://127.0.0.1:6878/ace/getstream?id=3040cfbef2d8170ff3909db6f21a6981d9ec74c8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 1080 1" group-title="Campeones",Campeones 1080 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 1080 1" group-title="Campeones",Campeones 1080 1
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 720" group-title="Campeones",Campeones 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 720" group-title="Campeones",Campeones 720
 http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 2 1080" group-title="Campeones",Campeones 2 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 2 1080" group-title="Campeones",Campeones 2 1080
 http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 2 720" group-title="Campeones",Campeones 2 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 2 720" group-title="Campeones",Campeones 2 720
 http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 3 1080" group-title="Campeones",Campeones 3 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 3 1080" group-title="Campeones",Campeones 3 1080
 http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Campeones 3 720" group-title="Campeones",Campeones 3 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 3 720" group-title="Campeones",Campeones 3 720
 http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TeleCinco 1080" group-title="ELCANO",TeleCinco 1080
+#EXTINF:-1 tvg-logo="https://webs.um.es/jcarrion/miwiki/lib/exe/fetch.php?cache=&media=telecinco_logo.png" tvg-id="TeleCinco 1080" group-title="ELCANO",TeleCinco 1080
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Cuatro 1080" group-title="ELCANO",Cuatro 1080
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/2/cuatro-tv-logo-png_seeklogo-297614.png" tvg-id="Cuatro 1080" group-title="ELCANO",Cuatro 1080
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="MotoGP - Carrera  🏁" group-title="ELCANO",MotoGP - Carrera  🏁
 http://127.0.0.1:6878/ace/getstream?id=f3aeea678376667d812c5d85084bf8d423ce2ed3
