@@ -22,9 +22,9 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" tvg-id="EUROSPORT 2 FHD" group-title="NEW ERA(EUROSPORT)",EUROSPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="GOLF FHD" group-title="NEW ERA(GOLF)",GOLF FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1200px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-id="GOLF FHD" group-title="NEW ERA(GOLF)",GOLF FHD
 http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="GOLF 2 FHD" group-title="NEW ERA(GOLF)",GOLF 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1200px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-id="GOLF 2 FHD" group-title="NEW ERA(GOLF)",GOLF 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LA LIGA 2 FHD" group-title="NEW ERA(LA LIGA)",DAZN LA LIGA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
@@ -38,7 +38,7 @@ http://127.0.0.1:6878/ace/getstream?id=c51e60bab39eb21c200c3ae95da175e0d3618083
 http://127.0.0.1:6878/ace/getstream?id=d42832860c026222b3982bb3d6100e1f267c54f0
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="M. Deportes HD" group-title="NEW LOOP",M. Deportes HD
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="M. Golf HD" group-title="NEW LOOP",M. Golf HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1200px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-id="M. Golf HD" group-title="NEW LOOP",M. Golf HD
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LaLiga" group-title="NEW LOOP",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
@@ -282,11 +282,11 @@ http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" tvg-id="Movistar Deportes 2" group-title="Movistar Deportes",Movistar Deportes 2
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Movistar Vamos" group-title="Movistar Deportes",Movistar Vamos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Vamos" group-title="Movistar Deportes",Movistar Vamos
 http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Movistar Ellas Vamos" group-title="Movistar Deportes",Movistar Ellas Vamos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Ellas Vamos" group-title="Movistar Deportes",Movistar Ellas Vamos
 http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/b/q/gol-play.jpg" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1200px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-id="Movistar Golf" group-title="Movistar Deportes",Movistar Golf
 http://127.0.0.1:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Movistar Estrenos" group-title="Movistar Cine",Movistar Estrenos
 http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
@@ -322,9 +322,9 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="MovistarPlus 1080" group-title="ELCANO",MovistarPlus 1080
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Vamos 1080" group-title="Vamos",Vamos 1080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Vamos 1080" group-title="Vamos",Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Vamos 720" group-title="Vamos",Vamos 720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Vamos 720" group-title="Vamos",Vamos 720
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="Dazn 1" group-title="Dazn",Dazn 1
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -348,7 +348,7 @@ http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Deporte 5 1080" group-title="Deporte",Deporte 5 1080
 http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" tvg-id="Ellas Vamos" group-title="ELCANO",Ellas Vamos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="Ellas Vamos" group-title="ELCANO",Ellas Vamos
 http://127.0.0.1:6878/ace/getstream?id=3040cfbef2d8170ff3909db6f21a6981d9ec74c8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" tvg-id="Campeones 1080 1" group-title="Campeones",Campeones 1080 1
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
