@@ -88,29 +88,29 @@ http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 http://127.0.0.1:6878/ace/getstream?id=233ba21691ea262caae00b0af171347c54c315f6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LALIGA SMARTBANK 9" group-title="HYPERMOTION",LALIGA SMARTBANK 9
 http://127.0.0.1:6878/ace/getstream?id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA" group-title="DAZN LALIGA",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA" group-title="DAZN LALIGA",DAZN LALIGA
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 1080 MULTIAUDIO" group-title="DAZN LALIGA",DAZN LALIGA 1080 MULTIAUDIO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 1080 MULTIAUDIO" group-title="DAZN LALIGA",DAZN LALIGA 1080 MULTIAUDIO
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 1080 MULTIAUDIO #2" group-title="DAZN LALIGA",DAZN LALIGA 1080 MULTIAUDIO #2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 1080 MULTIAUDIO #2" group-title="DAZN LALIGA",DAZN LALIGA 1080 MULTIAUDIO #2
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 2" group-title="DAZN LALIGA",DAZN LALIGA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 2" group-title="DAZN LALIGA",DAZN LALIGA 2
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 2 #2" group-title="DAZN LALIGA",DAZN LALIGA 2 #2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 2 #2" group-title="DAZN LALIGA",DAZN LALIGA 2 #2
 http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA  2 720" group-title="DAZN LALIGA",DAZN LALIGA  2 720
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA  2 720" group-title="DAZN LALIGA",DAZN LALIGA  2 720
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LA LIGA 2 FHD" group-title="DAZN LALIGA",DAZN LA LIGA 2 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LA LIGA 2 FHD" group-title="DAZN LALIGA",DAZN LA LIGA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA  3" group-title="DAZN LALIGA",DAZN LALIGA  3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA  3" group-title="DAZN LALIGA",DAZN LALIGA  3
 http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 4" group-title="DAZN LALIGA",DAZN LALIGA 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 4" group-title="DAZN LALIGA",DAZN LALIGA 4
 http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 5" group-title="DAZN LALIGA",DAZN LALIGA 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 5" group-title="DAZN LALIGA",DAZN LALIGA 5
 http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 720" group-title="DAZN LALIGA",DAZN LALIGA 720
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 720" group-title="DAZN LALIGA",DAZN LALIGA 720
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DAZN LALIGA 720 #2" group-title="DAZN LALIGA",DAZN LALIGA 720 #2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU" tvg-id="DAZN LALIGA 720 #2" group-title="DAZN LALIGA",DAZN LALIGA 720 #2
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA LIGA BAR 1080" group-title="LALIGA BAR",LA LIGA BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
@@ -204,7 +204,31 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" tvg-id="DE: DAZN BAR 1 HD" group-title="DAZN",DE: DAZN BAR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELEDEPORTE FHD" group-title="TELEDEPORTE",TELEDEPORTE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="CUATRO 1080" group-title="NACIONALES",CUATRO 1080
+http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
+http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DEPORTE 5 1080" group-title="NACIONALES",DEPORTE 5 1080
+http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
+http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
+http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 5 HD" group-title="NACIONALES",M+ DEPORTES 5 HD
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
+http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
+http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
+http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELEDEPORTE FHD" group-title="NACIONALES",TELEDEPORTE FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DEPORTE 1080" group-title="MOVISTAR DEPORTES",DEPORTE 1080
 http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -216,8 +240,6 @@ http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DEPORTE 4 1080" group-title="MOVISTAR DEPORTES",DEPORTE 4 1080
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DEPORTE 5 1080" group-title="MOVISTAR DEPORTES",DEPORTE 5 1080
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="DEPORTE 720" group-title="MOVISTAR DEPORTES",DEPORTE 720
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 2 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 2 FHD
@@ -226,8 +248,6 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 4 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES 5 HD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 5 HD
-http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES FHD
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="M+ DEPORTES FHD (*)" group-title="MOVISTAR DEPORTES",M+ DEPORTES FHD (*)
@@ -296,26 +316,6 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="MOVISTAR VACACIONES" group-title="MOVISTAR CINE",MOVISTAR VACACIONES
 http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="CUATRO 1080" group-title="NACIONALES",CUATRO 1080
-http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
-http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
-http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
-http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
-http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
-http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
-http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ESPN 2 [BE]" group-title="ESPN",ESPN 2 [BE]
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83oP2N5.png" tvg-id="ESPN2 [US]" group-title="ESPN",ESPN2 [US]
