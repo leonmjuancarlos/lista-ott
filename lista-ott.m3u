@@ -112,9 +112,9 @@ http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA 720 #2" group-title="DAZN LALIGA",DAZN LALIGA 720 #2
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LA LIGA BAR 1080" group-title="LALIGA BAR",LA LIGA BAR 1080
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" tvg-id="LA LIGA BAR 1080" group-title="LALIGA BAR",LA LIGA BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="LA LIGA BAR 1080 #2" group-title="LALIGA BAR",LA LIGA BAR 1080 #2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" tvg-id="LA LIGA BAR 1080 #2" group-title="LALIGA BAR",LA LIGA BAR 1080 #2
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M. LALIGA" group-title="MOVISTAR LALIGA",M. LALIGA
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
