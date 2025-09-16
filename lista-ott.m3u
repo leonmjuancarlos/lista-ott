@@ -210,8 +210,6 @@ http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 5 1080" group-title="NACIONALES",DEPORTE 5 1080
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
@@ -220,8 +218,6 @@ http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 5 HD" group-title="NACIONALES",M+ DEPORTES 5 HD
-http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
@@ -240,6 +236,8 @@ http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 4 1080" group-title="MOVISTAR DEPORTES",DEPORTE 4 1080
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 5 1080" group-title="MOVISTAR DEPORTES",DEPORTE 5 1080
+http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 720" group-title="MOVISTAR DEPORTES",DEPORTE 720
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 2 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 2 FHD
@@ -248,6 +246,8 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 4 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 5 HD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 5 HD
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES FHD
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES FHD (*)" group-title="MOVISTAR DEPORTES",M+ DEPORTES FHD (*)
