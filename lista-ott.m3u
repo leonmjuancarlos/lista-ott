@@ -26,9 +26,9 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/tp/tr:n-ik_ml_thumbnail/20220203-bt-sport-logo.png" tvg-id="BT SPORT 3 [UK]" group-title="UK SPORTS",BT SPORT 3 [UK]
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="PREMIER SPORTS 1 [UK]" group-title="UK SPORTS",PREMIER SPORTS 1 [UK]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" tvg-id="PREMIER SPORTS 1 [UK]" group-title="UK SPORTS",PREMIER SPORTS 1 [UK]
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="PREMIER SPORTS 2 [UK]" group-title="UK SPORTS",PREMIER SPORTS 2 [UK]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" tvg-id="PREMIER SPORTS 2 [UK]" group-title="UK SPORTS",PREMIER SPORTS 2 [UK]
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/1/8/8186311de5263f8485f92cd66efa4c27_icon.png" tvg-id="SKY SPORTS ARENA [UK]" group-title="UK SPORTS",SKY SPORTS ARENA [UK]
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
@@ -154,6 +154,12 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN F1 720 (FÓRMULA 1)" group-title="F1",DAZN F1 720 (FÓRMULA 1)
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN FORMULA1 4K" group-title="F1",DAZN FORMULA1 4K
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN FORMULA 1 FHD" group-title="F1",DAZN FORMULA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN FORMULA 1 FHD (*)" group-title="F1",DAZN FORMULA 1 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN1" group-title="DAZN",DAZN1
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 1" group-title="DAZN",DAZN 1
@@ -166,6 +172,8 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 1 BAR HD" group-title="DAZN",DAZN 1 BAR HD
 http://127.0.0.1:6878/ace/getstream?id=c51e60bab39eb21c200c3ae95da175e0d3618083
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 1 FHD (*)" group-title="DAZN",DAZN 1 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN2" group-title="DAZN",DAZN2
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 2" group-title="DAZN",DAZN 2
@@ -174,8 +182,20 @@ http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 2 BAR FHD" group-title="DAZN",DAZN 2 BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 2 FHD" group-title="DAZN",DAZN 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 2 FHD #2" group-title="DAZN",DAZN 2 FHD #2
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN3" group-title="DAZN",DAZN3
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 3 FHD" group-title="DAZN",DAZN 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 3 FHD (*)" group-title="DAZN",DAZN 3 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 4 FHD" group-title="DAZN",DAZN 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 4 FHD (*)" group-title="DAZN",DAZN 4 FHD (*)
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 1" group-title="DAZN",DAZN EVENTOS 1
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 2" group-title="DAZN",DAZN EVENTOS 2
@@ -184,28 +204,30 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DE: DAZN BAR 1 HD" group-title="DAZN",DE: DAZN BAR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1200px-Antena_3_2025_%28sin_wordmark%29.svg.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CUATRO 1080" group-title="NACIONALES",CUATRO 1080
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" tvg-id="CUATRO 1080" group-title="NACIONALES",CUATRO 1080
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PDe3lDoxZucNre79hg2ndN2DYrWoVOMQQA&s" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2015/03/logolasexta.jpeg" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
 http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="TELEDEPORTE FHD" group-title="NACIONALES",TELEDEPORTE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" tvg-id="TELEDEPORTE FHD" group-title="NACIONALES",TELEDEPORTE FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="DEDPORTE 2 1080" group-title="MOVISTAR DEPORTES",DEDPORTE 2 1080
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 1080" group-title="MOVISTAR DEPORTES",DEPORTE 1080
 http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 2 720" group-title="MOVISTAR DEPORTES",DEPORTE 2 720
@@ -234,10 +256,6 @@ http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES FHD 2 (*)" group-title="MOVISTAR DEPORTES",M+ DEPORTES FHD 2 (*)
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES HD OP1" group-title="MOVISTAR DEPORTES",M+ DEPORTES HD OP1
-http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES HD OP2" group-title="MOVISTAR DEPORTES",M+ DEPORTES HD OP2
-http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M. DEPORTES HD" group-title="MOVISTAR DEPORTES",M. DEPORTES HD
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="MOVISTAR DEPORTES" group-title="MOVISTAR DEPORTES",MOVISTAR DEPORTES
@@ -280,25 +298,27 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 720" group-title="EUROSPORT",EUROSPORT 720
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR ACCIÓN" group-title="MOVISTAR CINE",MOVISTAR ACCIÓN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ACCIÓN" group-title="MOVISTAR CINE",MOVISTAR ACCIÓN
 http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR CINE ESPAÑOL" group-title="MOVISTAR CINE",MOVISTAR CINE ESPAÑOL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR CINE ESPAÑOL" group-title="MOVISTAR CINE",MOVISTAR CINE ESPAÑOL
 http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR CLÁSICOS" group-title="MOVISTAR CINE",MOVISTAR CLÁSICOS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR CLÁSICOS" group-title="MOVISTAR CINE",MOVISTAR CLÁSICOS
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR COMEDIA" group-title="MOVISTAR CINE",MOVISTAR COMEDIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR COMEDIA" group-title="MOVISTAR CINE",MOVISTAR COMEDIA
 http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR DOCUMENTALES" group-title="MOVISTAR CINE",MOVISTAR DOCUMENTALES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR DOCUMENTALES" group-title="MOVISTAR CINE",MOVISTAR DOCUMENTALES
 http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR DRAMA" group-title="MOVISTAR CINE",MOVISTAR DRAMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR DRAMA" group-title="MOVISTAR CINE",MOVISTAR DRAMA
 http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR ESTRENOS" group-title="MOVISTAR CINE",MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ESTRENOS" group-title="MOVISTAR CINE",MOVISTAR ESTRENOS
 http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR HITS" group-title="MOVISTAR CINE",MOVISTAR HITS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR HITS" group-title="MOVISTAR CINE",MOVISTAR HITS
 http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR INDIE" group-title="MOVISTAR CINE",MOVISTAR INDIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR INDIE" group-title="MOVISTAR CINE",MOVISTAR INDIE
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR VACACIONES" group-title="MOVISTAR CINE",MOVISTAR VACACIONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ORIGINALES" group-title="MOVISTAR CINE",MOVISTAR ORIGINALES
+http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR VACACIONES" group-title="MOVISTAR CINE",MOVISTAR VACACIONES
 http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" tvg-id="ESPN 2 [BE]" group-title="ESPN",ESPN 2 [BE]
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
@@ -334,8 +354,6 @@ http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
 http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="DARK HD" group-title="OTROS",DARK HD
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="DEDPORTE 2 1080" group-title="OTROS",DEDPORTE 2 1080
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ESPORT 3 FHD" group-title="OTROS",ESPORT 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV (SOLO EVENTOS)" group-title="OTROS",MIXED TV (SOLO EVENTOS)
@@ -346,8 +364,6 @@ http://127.0.0.1:6878/ace/getstream?id=f3aeea678376667d812c5d85084bf8d423ce2ed3
 http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MOTORVISION TV" group-title="OTROS",MOTORVISION TV
 http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-logo="https://interbrand.com/wp-content/uploads/2022/02/movistars.png" tvg-id="MOVISTAR ORIGINALES" group-title="OTROS",MOVISTAR ORIGINALES
-http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="NBA TV" group-title="OTROS",NBA TV
 http://127.0.0.1:6878/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ONETORO (SOLO EVENTOS)" group-title="OTROS",ONETORO (SOLO EVENTOS)
