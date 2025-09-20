@@ -342,8 +342,6 @@ http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ESPORT 3 FHD" group-title="OTROS",ESPORT 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="EVENTOS" group-title="OTROS",EVENTOS
-http://127.0.0.1:6878/ace/getstream?id=f3aeea678376667d812c5d85084bf8d423ce2ed3
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV (SOLO EVENTOS)" group-title="OTROS",MIXED TV (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORS TV HD" group-title="OTROS",MOTORS TV HD
@@ -358,6 +356,8 @@ http://127.0.0.1:6878/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="RALLY TV" group-title="OTROS",RALLY TV
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="REAL MADRID VS ESPANYOL - HDR" group-title="OTROS",REAL MADRID VS ESPANYOL - HDR
+http://127.0.0.1:6878/ace/getstream?id=a39ae2421732369a9920c1bf897f9e1fade15f1b
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="SUPERTENNIS HD" group-title="OTROS",SUPERTENNIS HD
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL HD" group-title="OTROS",TENNIS CHANNEL HD
