@@ -342,6 +342,8 @@ http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ESPORT 3 FHD" group-title="OTROS",ESPORT 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="EVENTOS" group-title="OTROS",EVENTOS
+http://127.0.0.1:6878/ace/getstream?id=2d414a32763179b1db25ef7be976c1dce146d6bf
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV (SOLO EVENTOS)" group-title="OTROS",MIXED TV (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORS TV HD" group-title="OTROS",MOTORS TV HD
@@ -360,5 +362,3 @@ http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL HD" group-title="OTROS",TENNIS CHANNEL HD
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="⚽️ FC BARCELONA VS REAL SOCIEDAD" group-title="OTROS",⚽️ FC BARCELONA VS REAL SOCIEDAD
-http://127.0.0.1:6878/ace/getstream?id=765884a65a0951f2fe95f6556ff8668d6cd61f07
