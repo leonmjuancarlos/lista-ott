@@ -186,6 +186,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 3" group-title="DAZN",DAZN EVENTOS 3
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN PVV --> NEW ERA" group-title="DAZN",DAZN PVV --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DE: DAZN BAR 1 HD" group-title="DAZN",DE: DAZN BAR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1200px-Antena_3_2025_%28sin_wordmark%29.svg.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
@@ -356,6 +358,8 @@ http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 http://127.0.0.1:6878/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-silueta-cabeza-roja-toro_681147-293.jpg" tvg-id="ONETORO (SOLO EVENTOS)" group-title="OTROS",ONETORO (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="PRIMERA FEDERACIÓN FHD  --> NEW ERA" group-title="OTROS",PRIMERA FEDERACIÓN FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="RALLY TV" group-title="OTROS",RALLY TV
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="SUPERTENNIS HD" group-title="OTROS",SUPERTENNIS HD
