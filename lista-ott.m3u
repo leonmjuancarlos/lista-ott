@@ -103,9 +103,9 @@ http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA 1080 MULTIAUDIO #2" group-title="DAZN LALIGA",DAZN LALIGA 1080 MULTIAUDIO #2
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA 2" group-title="DAZN LALIGA",DAZN LALIGA 2
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA 2 #2" group-title="DAZN LALIGA",DAZN LALIGA 2 #2
 http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA 2 #2" group-title="DAZN LALIGA",DAZN LALIGA 2 #2
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA  2 720" group-title="DAZN LALIGA",DAZN LALIGA  2 720
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LA LIGA 2 FHD" group-title="DAZN LALIGA",DAZN LA LIGA 2 FHD
@@ -376,7 +376,13 @@ http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="SUPERTENNIS HD" group-title="OTROS",SUPERTENNIS HD
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL FHD --> NEW ERA" group-title="OTROS",TENNIS CHANNEL FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL HD" group-title="OTROS",TENNIS CHANNEL HD
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL HD --> NEW ERA" group-title="OTROS",TENNIS CHANNEL HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-logo="https://images.template.net/406700/Tennis-Logo-edit-online.png" tvg-id="TENNIS CHANNEL HD --> NEW ERA #2" group-title="OTROS",TENNIS CHANNEL HD --> NEW ERA #2
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="⚽️ SEVILLA VS BARCELONA" group-title="OTROS",⚽️ SEVILLA VS BARCELONA
 http://127.0.0.1:6878/ace/getstream?id=b4ab37aca003dd82c7c4098c798c9663408482ca
