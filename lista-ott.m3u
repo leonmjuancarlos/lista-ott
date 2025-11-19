@@ -154,8 +154,6 @@ http://127.0.0.1:6878/ace/getstream?id=d42832860c026222b3982bb3d6100e1f267c54f0
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" tvg-id="MOVISTARPLUS 1080" group-title="MOVISTAR LALIGA",MOVISTARPLUS 1080
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" tvg-id="📺📺 MOVISTAR PLUS 2📺📺" group-title="MOVISTAR LALIGA",📺📺 MOVISTAR PLUS 2📺📺
-http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" tvg-id="📺📺  MOVISTAR PLUS  📺📺" group-title="MOVISTAR LALIGA",📺📺  MOVISTAR PLUS  📺📺
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN F1" group-title="F1",DAZN F1
@@ -420,6 +418,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="🍿🍿 MOVISTAR ROMANCE 🍿🍿" group-title="OTROS",🍿🍿 MOVISTAR ROMANCE 🍿🍿
 http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="🎬🎬AMC HD🎬🎬" group-title="OTROS",🎬🎬AMC HD🎬🎬
+http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="🎬🎬BE MAD🎬🎬" group-title="OTROS",🎬🎬BE MAD🎬🎬
 http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="🏹🏹🏹CAZA Y PESCA🐠🐠🐠" group-title="OTROS",🏹🏹🏹CAZA Y PESCA🐠🐠🐠
