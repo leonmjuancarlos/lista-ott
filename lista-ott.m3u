@@ -242,8 +242,6 @@ http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 5 1080" group-title="MOVISTAR DEPORTES",DEPORTE 5 1080
 http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 720" group-title="MOVISTAR DEPORTES",DEPORTE 720
-http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 2 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="M+ DEPORTES 3 FHD" group-title="MOVISTAR DEPORTES",M+ DEPORTES 3 FHD
@@ -270,6 +268,8 @@ http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="🏅🏅 MOVISTAR DEPORTES 3🏅🏅" group-title="MOVISTAR DEPORTES",🏅🏅 MOVISTAR DEPORTES 3🏅🏅
 http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="🏅🏅 MOVISTAR DEPORTES🏅🏅" group-title="MOVISTAR DEPORTES",🏅🏅 MOVISTAR DEPORTES🏅🏅
+http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/09/vamos-movistar.png" tvg-id="#VAMOS ELLAS  FHD" group-title="#VAMOS",#VAMOS ELLAS  FHD
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/09/vamos-movistar.png" tvg-id="#VAMOS FHD" group-title="#VAMOS",#VAMOS FHD
