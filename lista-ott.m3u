@@ -202,8 +202,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DE: DAZN BAR 1 HD" group-title="DAZN",DE: DAZN BAR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="🍀🍀🍀DAZN PVV🍀🍀🍀" group-title="DAZN",🍀🍀🍀DAZN PVV🍀🍀🍀
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="🎱🎱 DAZN 4 🎱🎱" group-title="DAZN",🎱🎱 DAZN 4 🎱🎱
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="🎱🎱DAZN LIGA 1080P 🎱🎱" group-title="DAZN",🎱🎱DAZN LIGA 1080P 🎱🎱
@@ -270,8 +268,6 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="MOVISTAR DEPORTES 2" group-title="MOVISTAR DEPORTES",MOVISTAR DEPORTES 2
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="🏅🏅 MOVISTAR DEPORTES 2🏅🏅" group-title="MOVISTAR DEPORTES",🏅🏅 MOVISTAR DEPORTES 2🏅🏅
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="🏅🏅 MOVISTAR DEPORTES 3🏅🏅" group-title="MOVISTAR DEPORTES",🏅🏅 MOVISTAR DEPORTES 3🏅🏅
 http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
 #EXTINF:-1 tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/09/vamos-movistar.png" tvg-id="#VAMOS ELLAS  FHD" group-title="#VAMOS",#VAMOS ELLAS  FHD
