@@ -216,10 +216,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 3" group-title="DAZN",DAZN EVENTOS 3
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN PVV --> NEW ERA" group-title="DAZN",DAZN PVV --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN PVV --> NEW ERA #2" group-title="DAZN",DAZN PVV --> NEW ERA #2
-http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DE: DAZN BAR 1 HD" group-title="DAZN",DE: DAZN BAR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="🍀🍀🍀DAZN PVV🍀🍀🍀" group-title="DAZN",🍀🍀🍀DAZN PVV🍀🍀🍀
@@ -228,26 +224,10 @@ http://127.0.0.1:6878/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="🎱🎱DAZN LIGA 1080P 🎱🎱" group-title="DAZN",🎱🎱DAZN LIGA 1080P 🎱🎱
 http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1200px-Antena_3_2025_%28sin_wordmark%29.svg.png" tvg-id="ANTENA 3 FHD" group-title="NACIONALES",ANTENA 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" tvg-id="CUATRO 1080" group-title="NACIONALES",CUATRO 1080
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" tvg-id="CUATRO FHD" group-title="NACIONALES",CUATRO FHD
-http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PDe3lDoxZucNre79hg2ndN2DYrWoVOMQQA&s" tvg-id="GOL PLAY FHD" group-title="NACIONALES",GOL PLAY FHD
-http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/2295px-Logo_La_1.svg.png" tvg-id="LA 1 FHD" group-title="NACIONALES",LA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
-#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2015/03/logolasexta.jpeg" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
-http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO FHD" group-title="NACIONALES",TELECINCO FHD
-http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
-http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" tvg-id="TELEDEPORTE FHD" group-title="NACIONALES",TELEDEPORTE FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEDPORTE 2 1080" group-title="MOVISTAR DEPORTES",DEDPORTE 2 1080
@@ -398,6 +378,8 @@ http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
 http://127.0.0.1:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ESSPN LAT DEPORT --> NEW ERA" group-title="OTROS",ESSPN LAT DEPORT --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED1 TV (SOLO EVENTOS)" group-title="OTROS",MIXED1 TV (SOLO EVENTOS)
+http://127.0.0.1:6878/ace/getstream?id=f183cf6c5336e109f0572ffe0b471f0f79d19cf7
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV (SOLO EVENTOS)" group-title="OTROS",MIXED TV (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORS TV HD" group-title="OTROS",MOTORS TV HD
