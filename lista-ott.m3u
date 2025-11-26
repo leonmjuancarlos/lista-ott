@@ -438,6 +438,8 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD #2" group-title="EUROSPORT",EUROSPORT 1 FHD #2
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD" group-title="EUROSPORT",EUROSPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (DE)" group-title="EUROSPORT",EUROSPORT 1 HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (RU)" group-title="EUROSPORT",EUROSPORT 1 HD (RU)
@@ -515,7 +517,7 @@ http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/ba/e3/fbbae321652f053755bb43dde2af8975.png" tvg-id="UFC FIGHT PASS" group-title="UFC",UFC FIGHT PASS
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/ba/e3/fbbae321652f053755bb43dde2af8975.png" tvg-id="UFC FIGHT PASS FHD" group-title="UFC",UFC FIGHT PASS FHD
-http://127.0.0.1:6878/ace/getstream?id=96537527b2d5e858b2e6c863a0MMMc304254091d
+http://127.0.0.1:6878/ace/getstream?id=96537527b2d5e858b2e6c863a00dec304254091d
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/ba/e3/fbbae321652f053755bb43dde2af8975.png" tvg-id="UFC HD (RU)" group-title="UFC",UFC HD (RU)
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJOgD7ve4_YHYyB4MPRx6u6nRbaQiEAUt0w&s" tvg-id="MOVISTAR GOLF 2 FHD" group-title="GOLF",MOVISTAR GOLF 2 FHD
@@ -654,6 +656,8 @@ http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ORF SPORT+ HD (DE)" group-title="OTROS",ORF SPORT+ HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="PLUTO TV AUTO MOTOR SPORT (720P)" group-title="OTROS",PLUTO TV AUTO MOTOR SPORT (720P)
+http://127.0.0.1:6878/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="POLSAT SPORT (PL)" group-title="OTROS",POLSAT SPORT (PL)
 http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="POLSAT SPORT EXTRA (PL)" group-title="OTROS",POLSAT SPORT EXTRA (PL)
