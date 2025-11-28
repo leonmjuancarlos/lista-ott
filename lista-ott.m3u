@@ -456,6 +456,8 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD #2" group-title="EUROSPORT",EUROSPORT 1 FHD #2
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD" group-title="EUROSPORT",EUROSPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (DE)" group-title="EUROSPORT",EUROSPORT 1 HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (RU)" group-title="EUROSPORT",EUROSPORT 1 HD (RU)
@@ -572,6 +574,8 @@ http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CANAL EVENTOS ™" group-title="OTROS",CANAL EVENTOS ™
 http://127.0.0.1:6878/ace/getstream?id=57676fd4e901eac1676e6457979fc1aba90b65a1
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="CANAL MOTOR" group-title="OTROS",CANAL MOTOR
+http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CAZA Y PESCA FHD HD" group-title="OTROS",CAZA Y PESCA FHD HD
 http://127.0.0.1:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CAZA Y PESCA FHD HD #2" group-title="OTROS",CAZA Y PESCA FHD HD #2
@@ -636,6 +640,8 @@ http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV 2(SOLO EVENTOS)" group-title="OTROS",MIXED TV 2(SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORS TV HD" group-title="OTROS",MOTORS TV HD
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORVISION" group-title="OTROS",MOTORVISION
 http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ACCION FHD" group-title="OTROS",MOVISTAR ACCION FHD
@@ -664,6 +670,8 @@ http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 http://127.0.0.1:6878/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-silueta-cabeza-roja-toro_681147-293.jpg" tvg-id="ONETORO FHD #2" group-title="OTROS",ONETORO FHD #2
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ORANGE TV" group-title="OTROS",ORANGE TV
+http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ORF SPORT+ HD (DE)" group-title="OTROS",ORF SPORT+ HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="PLUTO TV AUTO MOTOR SPORT (720P)" group-title="OTROS",PLUTO TV AUTO MOTOR SPORT (720P)
