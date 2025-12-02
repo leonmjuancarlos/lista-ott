@@ -247,6 +247,8 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" tvg-id="MOVISTAR PLUS FHD #4" group-title="MOVISTAR LALIGA",MOVISTAR PLUS FHD #4
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN F1" group-title="F1",DAZN F1
+http://127.0.0.1:6878/ace/getstream?id=23363113cb7712e9255056486f645209cf99f8a2
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN F1 #2" group-title="F1",DAZN F1 #2
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" tvg-id="DAZN F1 1080 (FÓRMULA 1)" group-title="F1",DAZN F1 1080 (FÓRMULA 1)
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
@@ -454,6 +456,8 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD #2" group-title="EUROSPORT",EUROSPORT 1 FHD #2
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD" group-title="EUROSPORT",EUROSPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (DE)" group-title="EUROSPORT",EUROSPORT 1 HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD (RU)" group-title="EUROSPORT",EUROSPORT 1 HD (RU)
