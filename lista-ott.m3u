@@ -68,20 +68,6 @@ http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 10 FHD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 10 FHD
-http://127.0.0.1:6878/ace/getstream?id=0103373118989085dd0d02667c629ee36d462cb1
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 11 FHD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 11 FHD
-http://127.0.0.1:6878/ace/getstream?id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 12 FHD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 12 FHD
-http://127.0.0.1:6878/ace/getstream?id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 14 SD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 14 SD
-http://127.0.0.1:6878/ace/getstream?id=773ef9e2d2feb4f80ef558b253c72fda8d8e53cf
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 15 SD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 15 SD
-http://127.0.0.1:6878/ace/getstream?id=47ce8fe15adfcf4e1749b0c0dee1fc79a3d5ca6d
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 16 SD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 16 SD
-http://127.0.0.1:6878/ace/getstream?id=348cc65d5cbd5a77da0fe006ce97eff6ad72b9da
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 17 SD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 17 SD
-http://127.0.0.1:6878/ace/getstream?id=a15a132ffe7867a2b61b49617df39a8309cce27c
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 2" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 2
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20370054/26856/v/450/depositphotos_268569250-stock-illustration-champions-league-europe-official-logo.jpg" tvg-id="LIGA DE CAMPEONES 2 FHD" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 2 FHD
@@ -209,13 +195,9 @@ http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 2" group-title="MOVISTAR LALIGA",M+ LALIGA 2
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 2 FHD" group-title="MOVISTAR LALIGA",M+ LALIGA 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=caa631e8850e3eb5e7c039063dd8a339ccef1176
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 2 FHD #2" group-title="MOVISTAR LALIGA",M+ LALIGA 2 FHD #2
 http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 3" group-title="MOVISTAR LALIGA",M+ LALIGA 3
 http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 3 FHD" group-title="MOVISTAR LALIGA",M+ LALIGA 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=c9afaf4965ad627ea6983fec9f63e0c1e857028d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA 4" group-title="MOVISTAR LALIGA",M+ LALIGA 4
 http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/2560px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M+ LALIGA FHD" group-title="MOVISTAR LALIGA",M+ LALIGA FHD
@@ -376,6 +358,8 @@ http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 http://127.0.0.1:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/2295px-Logo_La_1.svg.png" tvg-id="LA 1 FHD #2" group-title="NACIONALES",LA 1 FHD #2
 http://127.0.0.1:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png" tvg-id="LA 2 FHD" group-title="NACIONALES",LA 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2015/03/logolasexta.jpeg" tvg-id="LA SEXTA FHD" group-title="NACIONALES",LA SEXTA FHD
 http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO 1080" group-title="NACIONALES",TELECINCO 1080
@@ -384,6 +368,8 @@ http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 http://127.0.0.1:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" tvg-id="TELECINCO FHD #2" group-title="NACIONALES",TELECINCO FHD #2
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" tvg-id="TELEDEPORTE FHD" group-title="NACIONALES",TELEDEPORTE FHD
+http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEDPORTE 2 1080" group-title="MOVISTAR DEPORTES",DEDPORTE 2 1080
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8acc67bc1893d8ed545e8e949c" tvg-id="DEPORTE 1080" group-title="MOVISTAR DEPORTES",DEPORTE 1080
@@ -457,6 +443,8 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD" group-title="EUROSPORT",EUROSPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD #2" group-title="EUROSPORT",EUROSPORT 1 FHD #2
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 FHD #3" group-title="EUROSPORT",EUROSPORT 1 FHD #3
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" tvg-id="EUROSPORT 1 HD" group-title="EUROSPORT",EUROSPORT 1 HD
 http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
@@ -578,10 +566,6 @@ http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 http://127.0.0.1:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="CAZA Y PESCA FHD HD #2" group-title="OTROS",CAZA Y PESCA FHD HD #2
 http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="COPA DEL REY" group-title="OTROS",COPA DEL REY
-http://127.0.0.1:6878/ace/getstream?id=4b9f813f30b4345fe555f9e218d828d76cd6ee88
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="COPA DEL REY #2" group-title="OTROS",COPA DEL REY #2
-http://127.0.0.1:6878/ace/getstream?id=63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="COPA DEL REY FHD" group-title="OTROS",COPA DEL REY FHD
 http://127.0.0.1:6878/ace/getstream?id=28205d7c9776b96a1f479c9082e80bd1e18f5afd
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="DARK HD" group-title="OTROS",DARK HD
@@ -651,6 +635,8 @@ http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ACCION FHD #2" group-title="OTROS",MOVISTAR ACCION FHD #2
 http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR CLASICOS FHD" group-title="OTROS",MOVISTAR CLASICOS FHD
+http://127.0.0.1:6878/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR CLASICOS FHD #2" group-title="OTROS",MOVISTAR CLASICOS FHD #2
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ELLAS FHD" group-title="OTROS",MOVISTAR ELLAS FHD
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
