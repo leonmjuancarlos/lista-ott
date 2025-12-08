@@ -16,6 +16,8 @@ http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" tvg-id="BEIN SPORTS HD 4 (TR)" group-title="BEIN SPORTS",BEIN SPORTS HD 4 (TR)
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" tvg-id="BEIN SPORTS Ñ" group-title="BEIN SPORTS",BEIN SPORTS Ñ
+http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/tp/tr:n-ik_ml_thumbnail/20220203-bt-sport-logo.png" tvg-id="BT SPORT 1 [UK]" group-title="UK SPORTS",BT SPORT 1 [UK]
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/tp/tr:n-ik_ml_thumbnail/20220203-bt-sport-logo.png" tvg-id="BT SPORT 1 [UK] #2" group-title="UK SPORTS",BT SPORT 1 [UK] #2
@@ -310,6 +312,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN 4 FHD #3" group-title="DAZN",DAZN 4 FHD #3
 http://127.0.0.1:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 2" group-title="DAZN",DAZN EVENTOS 2
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN EVENTOS 3" group-title="DAZN",DAZN EVENTOS 3
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/DAZN_Tamarc_Logo_2018.jpg" tvg-id="DAZN PVV" group-title="DAZN",DAZN PVV
@@ -622,10 +626,6 @@ http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="MIXED TV 2(SOLO EVENTOS)" group-title="OTROS",MIXED TV 2(SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORS TV HD" group-title="OTROS",MOTORS TV HD
-http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="MOTORVISION" group-title="OTROS",MOTORVISION
-http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ACCION FHD" group-title="OTROS",MOVISTAR ACCION FHD
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ykPYroyrLVq67GujdDwoJUrF1CMsUgotMQ&s" tvg-id="MOVISTAR ACCION FHD #2" group-title="OTROS",MOVISTAR ACCION FHD #2
@@ -652,8 +652,6 @@ http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
 http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-silueta-cabeza-roja-toro_681147-293.jpg" tvg-id="ONETORO FHD" group-title="OTROS",ONETORO FHD
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ORANGE TV" group-title="OTROS",ORANGE TV
-http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/System/Flat%201/Flat%20TV.png" tvg-id="ORF SPORT+ HD (DE)" group-title="OTROS",ORF SPORT+ HD (DE)
 http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/race-flag-design-icon-logo-600nw-2538379369.jpg" tvg-id="PLUTO TV AUTO MOTOR SPORT (720P)" group-title="OTROS",PLUTO TV AUTO MOTOR SPORT (720P)
