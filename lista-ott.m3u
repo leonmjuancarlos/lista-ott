@@ -16,6 +16,8 @@ http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" tvg-id="BEIN SPORTS HD 4 (TR)" group-title="BEIN SPORTS",BEIN SPORTS HD 4 (TR)
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" tvg-id="BEIN SPORTS Ñ" group-title="BEIN SPORTS",BEIN SPORTS Ñ
+http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/tp/tr:n-ik_ml_thumbnail/20220203-bt-sport-logo.png" tvg-id="BT SPORT 1 [UK]" group-title="UK SPORTS",BT SPORT 1 [UK]
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/tp/tr:n-ik_ml_thumbnail/20220203-bt-sport-logo.png" tvg-id="BT SPORT 1 [UK] #2" group-title="UK SPORTS",BT SPORT 1 [UK] #2
